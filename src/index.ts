@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 /**
  * audit-logger - Immutable audit trail for regulatory compliance
- * Built with Zo Computer by The BookMaster
+ * Built by Retsumdk
  */
 
 import { Command } from "commander";
